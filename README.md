@@ -1,0 +1,1 @@
+This project takes the user through the experience of making a model that's able to predict whether a person makes above or below a threshold of 50K based off of the demographic data provided in the Census Data. The label would be the "income_binary" column, which provides whether an individual makes above or below 50K annually.
